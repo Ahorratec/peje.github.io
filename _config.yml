@@ -7,8 +7,8 @@ Phone: 186 219 23213
 
 
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "http://peje.github.io/" # the subpath of your site, e.g. /blog
+url: "http://peje.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  jekyll
 
